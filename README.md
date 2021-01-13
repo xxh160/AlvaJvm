@@ -1,5 +1,10 @@
 # AlvaJvm
 
+![1](https://img.shields.io/github/issues/xxh160/AlvaJvm)
+![2](https://img.shields.io/github/stars/xxh160/AlvaJvm)
+![3](https://img.shields.io/github/forks/xxh160/AlvaJvm)
+![4](https://img.shields.io/github/license/xxh160/AlvaJvm)
+
 项目名是`AlvaJvm`。因为是Java项目，所以用了驼峰命名法。
 
 自己实现的jvm，部分弥补一下大一下学期没有好好做软工大作业的遗憾。
@@ -43,6 +48,3 @@ os是我大二下准备跨专业选修的一门课，即使要免修不免考院
 
 ![这是啥东西](etc/img/what.png)
 
-然后我深切地体会到，写个test都得用反射是多么令人悲愤。
-
-![cao](etc/img/cao.png)
